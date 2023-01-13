@@ -57,15 +57,3 @@ Como sabré la divisa? hasta ahora fijo la divisa de la venta en función de los
 ¿Re calculo el precio cuando hayan ingresado la venta?
 
 ---
-
-### Tareas
-
-- [ ] Crear tabla nueva de ***datos_coches*** para poner los campos nuevos.
-- [x] Crear tabla de ***rangos***, con precio y suma de incremento, para poderlo cambiar siempre que quiera.
-- [ ] Crear tabla de ***precio*** si euros o dólares por si hay que hacer incremento.
-- [x] Modificar tabla de ***cats_coches*** para añadir el precio del combustible de cada tipo
-- [ ] Crear tabla de ***configuración*** de datos de coche para tener los campos recogida aeropuerto y chofer adicional.
-- [x] Crear selectores con las opciones para combustible y seguro
-- [x] Obligar a poner los campos cuando el coche es un **RIESGO AVC**
-- [ ] Poner precio de recogida en aeropuerto al crear el input (contando con la divisa, por defecto será euro y calculará al poner el comprobante la nueva divisa)
-- [ ] Si la divisa cambia cambiar el selector de combustible manteniendo el que se haya escogido como selected, si es que se ha escogido alguno.
